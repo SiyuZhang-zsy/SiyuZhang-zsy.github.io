@@ -32,7 +32,7 @@ Before starting my PhD, I completed an MSc in Computer Science at the University
 
 ## Conference Proceedings
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">UIST 2026</div><img src='images/pub-adaptaface.svg' alt="AdaptaFace publication thumbnail" width="75%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">UIST 2026</div><img src='images/pub-adaptaface.png' alt="AdaptaFace publication thumbnail" width="75%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **AdaptaFace: Adversarial Assistance for Accessible Facial-Gesture Interaction**
@@ -44,7 +44,7 @@ ACM Symposium on User Interface Software and Technology (UIST), 2026. Conditiona
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CHI 2026</div><img src='images/pub-beyond-accuracy.svg' alt="Beyond Accuracy publication thumbnail" width="75%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CHI 2026</div><img src='images/pub-beyond-accuracy.png' alt="Beyond Accuracy publication thumbnail" width="75%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Beyond accuracy: Auditing allocative harms in facial-gesture recognition for people with motor impairments**
