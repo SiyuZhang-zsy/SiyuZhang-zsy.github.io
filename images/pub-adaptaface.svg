@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="500" height="300" viewBox="0 0 500 300" role="img" aria-labelledby="title desc">
+  <title id="title">AdaptaFace publication thumbnail</title>
+  <desc id="desc">Abstract illustration of adaptive facial gesture interaction.</desc>
+  <rect width="500" height="300" fill="#f7f9fc"/>
+  <circle cx="178" cy="145" r="68" fill="#ffffff" stroke="#315f8f" stroke-width="5"/>
+  <circle cx="155" cy="132" r="7" fill="#315f8f"/>
+  <circle cx="201" cy="132" r="7" fill="#315f8f"/>
+  <path d="M146 165 C165 184, 191 184, 211 165" fill="none" stroke="#315f8f" stroke-width="5" stroke-linecap="round"/>
+  <path d="M280 92 L356 92 L356 132 L392 132 L392 208 L280 208 Z" fill="#dfeaf6" stroke="#315f8f" stroke-width="4"/>
+  <path d="M306 123 H350 M306 151 H366 M306 179 H348" stroke="#315f8f" stroke-width="6" stroke-linecap="round"/>
+  <path d="M236 145 C258 120, 265 110, 286 112" fill="none" stroke="#d44f3a" stroke-width="5" stroke-linecap="round"/>
+  <path d="M286 112 L275 104 M286 112 L278 124" fill="none" stroke="#d44f3a" stroke-width="5" stroke-linecap="round"/>
+  <text x="56" y="260" font-family="Arial, Helvetica, sans-serif" font-size="28" font-weight="700" fill="#1f2d3d">AdaptaFace</text>
+</svg>
