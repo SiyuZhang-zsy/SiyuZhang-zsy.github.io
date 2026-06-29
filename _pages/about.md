@@ -10,13 +10,11 @@ redirect_from:
 
 # About Me
 
-I am a Ph.D. researcher in Computer Science at the University of Bristol. My work sits at the intersection of Human-Computer Interaction, Accessibility AI, AI Ethics, and multisensory interaction.
+I am a PhD student in the Bristol Interaction Group (BIG) at the University of Bristol, supervised by Dr Oussama Metatla and Professor Kirsten Cater. My research sits at the intersection of Accessibility, Human-centred AI, and AI Governance. My PhD work focuses on accessible interaction for people with motor impairments, and I have also contributed to projects on cross-sensory interaction for older adults and AI safety, governance, and representation.
 
-I study how AI-mediated interfaces can better support people with diverse motor, speech, and sensory access needs. My current projects examine fairness beyond model accuracy, adaptive facial-gesture interaction, non-standard speech recognition, cross-sensory translation, and governance questions around persistent AI systems.
+Before starting my PhD, I completed an MSc in Computer Science at the University of Bristol under the supervision of Dr Aisling O'Kane. Prior to that, I received a BSc in Landscape Architecture from Sichuan Agricultural University.
 
-I am currently open to research, HCI, accessibility, and responsible AI opportunities.
-
-**Research interests:** HCI, Accessibility AI, AI Ethics, Multisensory Interaction, Inclusive AI Systems.
+***I am currently seeking visiting research or internship opportunities between Aug. and Nov. 2026, as well as postdoctoral opportunities starting from December 2026 onwards. Please feel free to get in touch.***
 
 # News
 
