@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Siyu Zhang"
-description              : "Ph.D. researcher in Computer Science at the University of Bristol."
+description              : "PhD student in the Bristol Interaction Group at the University of Bristol."
 repository               : "SiyuZhang-zsy/SiyuZhang-zsy.github.io"
 google_scholar_stats_use_cdn : false
 
@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Siyu Zhang"
   avatar           : "images/siyu-avatar.png"
-  bio              : "Ph.D. Researcher, University of Bristol"
+  bio              : "PhD student, Bristol Interaction Group"
   location         : "Bristol, UK"
   employer         :
   pubmed           : 
