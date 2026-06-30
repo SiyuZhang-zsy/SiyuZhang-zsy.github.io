@@ -18,15 +18,15 @@ Before starting my PhD, I completed an MSc in Computer Science at the University
 
 # News
 
-- 2026.6: *AdaptaFace* has been conditionally accepted to UIST 2026.
+- 2026.6: *AdaptaFace* has been conditionally accepted to UIST 2026. 🎉
 - 2026.6: Reviewer for MobileHCI 2026 Poster
 - 2026.6: Reviewer for Ubicomp 2026 Poster
 - 2026.5: External Reviewer for ASSETS 2026
 - 2026.4: Reviewer for CSCW 2026 Poster
 - 2026.2: Reviewer for DIS 2026
-- 2026.1: *Beyond Accuracy* has been accepted to CHI 2026
-- 2025.3: Our workshop paper has been accepted by CHI 2025
-- 2023.3: Our workshop paper has been accepted by CHI 2023
+- 2026.1: *Beyond Accuracy* has been accepted to CHI 2026 🎉
+- 2025.3: Our workshop paper has been accepted by CHI 2025 🎉
+- 2023.3: Our workshop paper has been accepted by CHI 2023 🎉
 
 # Publications
 
