@@ -10,11 +10,11 @@ redirect_from:
 
 # About Me
 
-I am a final year PhD student in the [Bristol Interaction Group (BIG)](https://biglab.co.uk/) at the University of Bristol, supervised by [Dr Oussama Metatla](http://www.ousmet.com/) and [Professor Kirsten Cater](https://www.bristol.ac.uk/people/person/Kirsten-Cater-a57f7307-cd31-4b32-abd7-c7b4c56a7dcf/). My PhD work focuses on accessible interaction for people with motor impairments. I am especially interested in Accessibility and Responsible AI. I have also contributed to projects on cross-sensory interaction for older adults, AI safety and AI governance.
+I am a final year PhD student in the [Bristol Interaction Group (BIG)](https://biglab.co.uk/) at the University of Bristol, supervised by [Dr Oussama Metatla](http://www.ousmet.com/) and [Professor Kirsten Cater](https://www.bristol.ac.uk/people/person/Kirsten-Cater-a57f7307-cd31-4b32-abd7-c7b4c56a7dcf/). My PhD work focuses on accessible interaction for people with motor impairments, with a broader interest in responsible AI. I have also contributed to projects on cross-sensory interaction for older adults, AI safety and AI governance.
 
 Before starting my PhD, I completed an MSc in Computer Science at the University of Bristol under the supervision of [Dr Aisling O'Kane](https://www.bristol.ac.uk/people/person/Aisling-O'Kane-7cfdc42c-46bc-4c6f-98c4-b73408c04bff/). Prior to that, I received a BSc in Landscape Architecture from Sichuan Agricultural University.
 
-***I am currently seeking visiting research opportunities between Aug. and Nov. 2026, as well as postdoctoral opportunities starting from December 2026 onwards. Please feel free to get in touch.***
+***I am currently seeking visiting research opportunities between Aug. and Nov. 2026, as well as postdoctoral opportunities starting from November 2026 onwards. Please feel free to get in touch.***
 
 # News
 
