@@ -86,18 +86,16 @@ I welcome conversations and collaborations around these research directions. Ple
 
 # Education
 
-- *2022 - present*, Ph.D. in Computer Science, University of Bristol, UK.  
-  Supervisors: Oussama Metatla and Kirsten Cater.
-- *2017 - 2018*, M.Sc. in Computer Science, University of Bristol, UK.  
-  Research field: Voice Interaction. Supervisor: Aisling O'Kane.
+- *2022 - present*, Ph.D. in Computer Science, University of Bristol, UK.
+- *2017 - 2018*, M.Sc. in Computer Science, University of Bristol, UK.
 - *2011 - 2015*, B.Sc. in Landscape Architecture, Sichuan Agricultural University, China.
 
 # Experience
 
 - *2019 - 2022*, Founder and Lead Developer, Chengdu Heimerdinger Technology Co., Ltd., China.  
-  Led client-facing web and mini-program projects, including official websites, agricultural science and technology park platforms, and public-service mini programs.
+  Led web and mini-program development for corporate and public-sector clients.
 - *2015*, Assistant Interaction Designer, Lenovo Research, Chengdu, China.  
-  Worked on Lenovo Mobile Store and ZUI interaction design projects.
+  Worked on Lenovo Mobile Store and ZUI.
 
 # Services
 
