@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Siyu Zhang"
-description              : "PhD student in the Bristol Interaction Group at the University of Bristol."
+description              : "PhD student at University of Bristol."
 repository               : "SiyuZhang-zsy/SiyuZhang-zsy.github.io"
 google_scholar_stats_use_cdn : false
 
@@ -23,11 +23,11 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Siyu Zhang"
   avatar           : "images/Siyu-photo.jpg"
-  bio              : "PhD student, Bristol Interaction Group"
+  bio              : "PhD student at University of Bristol"
   location         : "Bristol, UK"
   employer         :
   pubmed           : 
-  googlescholar    :
+  googlescholar    : "https://scholar.google.com/citations?view_op=search_authors&mauthors=Siyu+Zhang+University+of+Bristol&hl=en"
   email            : "zhang@bristol.ac.uk"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              : "https://biglab.co.uk/member/siyu-zhang/"

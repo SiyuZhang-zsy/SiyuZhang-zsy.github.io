@@ -18,8 +18,8 @@ Before starting my PhD, I completed an MSc in Computer Science at the University
 
 # News
 
-- 2026.6: *AdaptaFace* has been conditionally accepted to UIST 2026. 🎉
 - 2026.6: Reviewer for MobileHCI 2026 Poster
+- 2026.6: *AdaptaFace* has been conditionally accepted to UIST 2026 🎉
 - 2026.6: Reviewer for Ubicomp 2026 Poster
 - 2026.5: External Reviewer for ASSETS 2026
 - 2026.4: Reviewer for CSCW 2026 Poster
@@ -41,6 +41,8 @@ Before starting my PhD, I completed an MSc in Computer Science at the University
 
 ACM Symposium on User Interface Software and Technology (UIST), 2026. Conditionally accepted.
 
+[[PDF]](files/AdaptaFace.pdf) [[Github]](https://github.com/SiyuZhang-zsy/AdaptaFace)
+
 </div>
 </div>
 
@@ -53,9 +55,12 @@ ACM Symposium on User Interface Software and Technology (UIST), 2026. Conditiona
 
 Proceedings of the 2026 CHI Conference on Human Factors in Computing Systems, 2026, pp. 1-24.
 
+[[PDF]](files/beyondAccuracy.pdf) [[Github]](https://github.com/SiyuZhang-zsy/FairGesture)
+
 </div>
 </div>
 
+<!--
 ## Manuscripts Under Review
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='images/pub-speech.svg' alt="Non-standard speech recognition manuscript thumbnail" width="75%"></div></div>
@@ -63,12 +68,13 @@ Proceedings of the 2026 CHI Conference on Human Factors in Computing Systems, 20
 
 **Training-Free Accommodation for Non-Standard Speech Recognition**
 
-**Siyu Zhang** et al.
+**Siyu Zhang**, Yelu Gu, Kirsten Cater, and Oussama Metatla.
 
 Manuscript under review.
 
 </div>
 </div>
+-->
 
 # Ongoing Research
 
