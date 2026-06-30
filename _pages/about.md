@@ -60,6 +60,36 @@ Proceedings of the 2026 CHI Conference on Human Factors in Computing Systems, 20
 </div>
 </div>
 
+## Poster & Workshop Papers
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CHI 2025 Workshop</div><img src='images/CHI_25_Workshop.png' alt="CHI 2025 workshop paper thumbnail" width="75%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**Enhancing the Accessibility and Robustness of Above-Neck Gesture Interfaces in Immersive Environments Using Adversarial Images**
+
+**Siyu Zhang**, Yelu Gu, Wenda Zhao, Kirsten Cater, and Oussama Metatla.
+
+The Third Workshop on Building an Inclusive and Accessible Metaverse for All at CHI 2025, 2025.
+
+[[PDF]](files/CHI_25_Workshop_Above_Neck_Gesture_Interfaces.pdf)
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CHI 2023 Workshop</div><img src='images/CHI_23_Workshop.png' alt="CHI 2023 workshop paper thumbnail" width="75%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**Inferring Gestural Intent as a Model to Support Accessible Virtual Reality Interactions for People with Upper-Limbs Motor Impairments**
+
+**Siyu Zhang**, Kirsten Cater, and Oussama Metatla.
+
+Workshop on Building an Inclusive and Accessible Metaverse for All at CHI 2023, 2023.
+
+[[PDF]](files/Inferring_Gestural_Intent_as_a_Model_to_Support_Accessible.pdf) [[Google Scholar]](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=jqF040AAAAAJ&citation_for_view=jqF040AAAAAJ:u5HHmVD_uO8C)
+
+</div>
+</div>
+
 <!--
 ## Manuscripts Under Review
 
