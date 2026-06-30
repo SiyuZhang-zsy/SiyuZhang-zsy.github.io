@@ -78,7 +78,7 @@ Manuscript under review.
 
 # Ongoing Research
 
-I welcome conversations and collaborations around these research directions. Please feel free to get in touch if any of these topics resonate with your work.
+*Welcome conversations and collaborations on these research directions.*
 
 - **Governing AI Representation:** Memory, simulation, and delegated identity in persistent AI systems.
 - **From Seeing to Sensing:** LLM-based cross-sensory translation for accessible visual understanding.

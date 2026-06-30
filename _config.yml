@@ -28,7 +28,8 @@ author:
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?view_op=search_authors&mauthors=Siyu+Zhang+University+of+Bristol&hl=en"
-  email            : "zhang@bristol.ac.uk"
+  email            : "s.zhang@bristol.ac.uk"
+  cv               : "files/Siyu_Zhang_CV.pdf"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              : "https://biglab.co.uk/member/siyu-zhang/"
   bitbucket        :
